@@ -1,7 +1,7 @@
 # TIL
 ## 2023
 ### 02
-30 / 31 / [01](https://github.com/samjan29/TIL/blob/main/2023/02/01.md) /
+00 / 00 / [01](https://github.com/samjan29/TIL/blob/main/2023/02/01.md) / [02](https://github.com/samjan29/TIL/blob/main/2023/02/02.md) / [03](https://github.com/samjan29/TIL/blob/main/2023/02/03.md) / [04](https://github.com/samjan29/TIL/blob/main/2023/02/04.md) / [05](https://github.com/samjan29/TIL/blob/main/2023/02/05.md)
 
 ### 01
 02 / [03](https://github.com/samjan29/TIL/blob/main/2023/01/03.md) / [04](https://github.com/samjan29/TIL/blob/main/2023/01/04.md) / [05](https://github.com/samjan29/TIL/blob/main/2023/01/05.md) / [06](https://github.com/samjan29/TIL/blob/main/2023/01/06.md) / [07](https://github.com/samjan29/TIL/blob/main/2023/01/07.md) / [08](https://github.com/samjan29/TIL/blob/main/2023/01/08.md)   
