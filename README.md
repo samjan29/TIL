@@ -5,6 +5,7 @@
 [06](https://github.com/samjan29/TIL/blob/main/2023/02/06.md) / [07](https://github.com/samjan29/TIL/blob/main/2023/02/07.md) / [08](https://github.com/samjan29/TIL/blob/main/2023/02/08.md) / [09](https://github.com/samjan29/TIL/blob/main/2023/02/09.md) / [10](https://github.com/samjan29/TIL/blob/main/2023/02/10.md) / [11](https://github.com/samjan29/TIL/blob/main/2023/02/11.md) / 12   
 13 / [14](https://github.com/samjan29/TIL/blob/main/2023/02/14.md) / [15](https://github.com/samjan29/TIL/blob/main/2023/02/15.md) / [16](https://github.com/samjan29/TIL/blob/main/2023/02/16.md) / [17](https://github.com/samjan29/TIL/blob/main/2023/02/17.md) / 18 / 19   
 20 / [21](https://github.com/samjan29/TIL/blob/main/2023/02/21.md) / [22](https://github.com/samjan29/TIL/blob/main/2023/02/22.md) / [23](https://github.com/samjan29/TIL/blob/main/2023/02/23.md) / [24](https://github.com/samjan29/TIL/blob/main/2023/02/24.md) / [25](https://github.com/samjan29/TIL/blob/main/2023/02/25.md) / 26   
+[27](https://github.com/samjan29/TIL/blob/main/2023/02/27.md) / 
 
 
 ### 01
